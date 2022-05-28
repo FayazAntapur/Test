@@ -1,0 +1,11 @@
+
+Omega(1) == best case
+Theta(n+1/n) = average case
+Big O(n) = worst case
+O(1) O(n2)
+time and space complexity
+java is zero indexed language array
+2D array = matrix = rows * columns
+rows * columns * data type size
+
+bubble sort, selection sort, insertion sort

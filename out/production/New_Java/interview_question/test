@@ -1,0 +1,79 @@
+Fayaz automation labs
+fayaz
+fayaz java course
+java course is not valid
+
+Until is method present in Wait Interface which is extendes by Fluent Wait
+Default wait polling 500ms
+search context interface has two methods find element and find elements
+find elements don't throw exception if element not found
+search context is parent interface of webdriver
+getTitle internally calls GET document.title
+for binary elements need to be in sorted
+for missing elements should not be duplicate elements must be in a range
+Why Script fails --> Its bcz of browser update, data missing, wrong git merge, app down, database cred expired
+getTitle
+SVG Graph automation: ---> //*[local-name()='svg' and @class="xyz]//*[name()='rect']
+get rect new method
+ele.getScreenshotAs
+
+Selenium 4 feature
+W3C instead for jSON protocal
+driver.findElement(RelativeLocator.with(By.tagname("")).toLeftOf(loginbutton)).click()
+ele.getScreenshotAs(OUTPUTTYPE.FILE)
+Selenium gird standalone, hub and node, distributed,....
+java -jar selenium.jar standalone
+router, node, session, session map, event-bus, distributor
+driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10))
+
+
+JavascriptExecutor
+document.title
+document.getElementById("").click()
+arguments[0].value='fayaz'
+document.querySelector("").style.background='green'
+document.querySelector("").style.border='2px solid red'
+
+
+mvn test
+mvn test -Dcucumber.options=".feature" + "line number of scenario"
+mvn test -Dcucumber.options="--tags@tagname"
+
+mvn -Dtest=twotest test
+mvn test -p smoke
+add mvn surefire plugin
+configuraion suitexmlfiles suitexmlfile testng.xml
+
+API testing
+
+api schema
+api sequence call
+parameters combination
+validating parameters
+200 ok
+201 insert
+204 delete
+404 unavailable
+API specification and use cases
+api development
+test case development
+framework development
+test execution and reporting
+CRUD
+URL----domain+URI+query parameter
+path params are used to identify a specific resource or resources
+query parameters are used to sort/filter those resources
+HTTP and HTTPS ---->
+monolithic and micro services
+
+
+git add .
+git push origin master
+git set-url origin url-path
+git checkout master
+git branch main master -f
+git checkout main
+git push origin main -f
+git config --global user.mail "fsdfsd"
+git config --global user.name "fayaz00"
+
